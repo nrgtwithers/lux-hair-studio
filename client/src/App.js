@@ -9,7 +9,7 @@ import FAQ from "./pages/FAQ"
 import Contact from "./pages/Contact";
 import Navbar from './components/Navbar'
 
-// import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
 function App() {

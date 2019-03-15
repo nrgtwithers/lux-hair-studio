@@ -1,34 +1,39 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import { withStyles } from '@material-ui/core/styles';
-import AppBar from '@material-ui/core/AppBar';
-import Toolbar from '@material-ui/core/Toolbar';
-import Typography from '@material-ui/core/Typography';
+import React from "react";
+// import "./style.css";
+import { Link } from 'react-router-dom';
 
-const styles = {
-  root: {
-    flexGrow: 1,
-  },
-};
+function NavBar() {
+    return (
+        <div id="overlay">
+            <nav className="navbar navbar-trans navbar-expand-lg navbar-light bg-black">
+            <Link to="/" className="nav-link"><h1>LUX STUDIO</h1></Link>
+                <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+                    <span className="navbar-toggler-icon"></span>
+                </button>
 
-function Navbar(props) {
-  const { classes } = props;
+                <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
+                    <ul className="navbar-nav ml-auto mt-2 mt-lg-0">
+                        <li className="nav-item">
+                            <Link to="/about" className="nav-link">ABOUT</Link>
+                        </li>
+                        <li className="nav-item">
+                            <Link to="/services" className="nav-link">SERVICES</Link>
+                        </li>
+                        <li className="nav-item">
+                            <Link to="/portfolio" className="nav-link">PORTFOLIO</Link>
+                        </li>
+                        <li className="nav-item">
+                            <Link to="/FAQ" className="nav-link">FAQ</Link>
+                        </li>
+                        <li className="nav-item">
+                            <Link to="/contact" className="nav-link">CONTACT</Link>
+                        </li>
+                    </ul>
 
-  return (
-    <div className={classes.root}>
-      <AppBar position="static" color="#212121">
-        <Toolbar>
-          <Typography variant="h6" color="white">
-          <strong>LUX STUDIO</strong>
-         </Typography>
-        </Toolbar>
-      </AppBar>
-    </div>
-  );
+                </div>
+            </nav>
+        </div>
+    );
 }
 
-Navbar.propTypes = {
-  classes: PropTypes.object.isRequired,
-};
-
-export default withStyles(styles)(Navbar);
+export default NavBar;

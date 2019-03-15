@@ -3,6 +3,7 @@
 html, body{
   background-color: white;
   font-family: 'Lato', sans-serif;
+  color: black;
 }
 
 .navbar{
@@ -31,8 +32,10 @@ h1{
 }
 
 .jumbotron{
-  background-color: grey !important;
-  /* background-image: url('../public/assets/hair-jumbo.jpg') !important; */
+  background-image: url('./pages/hair-jumbo.jpg') !important;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 700px!important;
 }
 
 .App-logo {

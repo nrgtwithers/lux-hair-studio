@@ -1,5 +1,21 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css?family=Lato|Open+Sans+Condensed:300');
+
+html, body{
+  background-color: white;
+}
+
+.MuiToolbar-regular-40{
+  background-color: black;
+}
+
+strong{
+  color: white;
+  font-size: 35px;
+  text-shadow: 2px 1px #757575;
+}
+
+h1{
+  font-family: 'Lato', sans-serif;
 }
 
 .App-logo {

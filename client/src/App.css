@@ -4,7 +4,7 @@ html, body{
   background-color: white;
 }
 
-.MuiToolbar-regular-40{
+.MuiToolbar-regular-40, .jss40{
   background-color: black !important;
 }
 

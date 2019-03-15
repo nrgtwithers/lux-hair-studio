@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-;
+import Jumbotron from '../components/Jumbotron';
 
 
 class Home extends Component {
@@ -14,7 +14,9 @@ class Home extends Component {
     render() {
         return (
             <div>
-                home
+                <Jumbotron>
+                    Hello World!
+                </Jumbotron>
             </div>              
                 )
             }

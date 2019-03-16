@@ -10,12 +10,36 @@ html, body{
   background-color: black;
   color: white;
   font-family: 'Lato', sans-serif;
+  width: 100%;
+  position: fixed;
 }
 
 .navbar-nav .nav-link{
   font-family: 'Lato', sans-serif !important;
   color: white !important;
   text-decoration: none;
+}
+
+img.right{
+  float: right;
+}
+
+img.left{
+  float: left;
+}
+
+.row{
+  padding: 30px;
+  border-style: solid;
+  border-width:1px;
+  margin: 20px;
+  border-radius: 20px;
+}
+
+h4{
+  text-align: center;
+  font-weight: bold;
+  padding: 50px;
 }
 
 .nav-link:hover{

@@ -1,0 +1,152 @@
+[
+    {
+      "id": 1,
+      "name": "Women's Cut & Style",
+      "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+      "description": "Fry Cook"
+    },
+    {
+        "id": 2,
+        "name": "Men's Cut & Style",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 3,
+        "name": "Kid's Cut & Style",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 4,
+        "name": "Root Color Touch-Up",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 5,
+        "name": "Full Single Process Color",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 6,
+        "name": "Partial Foil Highlights",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 7,
+        "name": "Full Foil Highlight",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 7,
+        "name": "Partial Balayage",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 8,
+        "name": "Full Balayage",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 9,
+        "name": "Double Process Color",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 10,
+        "name": "Fashion Color",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 11,
+        "name": "Specialty Color",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 12,
+        "name": "Color Correction",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 13,
+        "name": "Color Consultations",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 14,
+        "name": "Clarifying Treatment",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 15,
+        "name": "Deep Conditioning Treatment",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 16,
+        "name": "Olaplex Treatment",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 17,
+        "name": "Blow Dry",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 18,
+        "name": "Blow Dry With Curling Iron/Flat Iron",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 19,
+        "name": "Specialty Styling",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 20,
+        "name": "Updos",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 21,
+        "name": "Bridal Styling",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 22,
+        "name": "Eyebrow Shaping",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 23,
+        "name": "Eyebrow with tint",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    },
+    {
+        "id": 24,
+        "name": "Lip/Chin Wax",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "Fry Cook"
+    }
+]
